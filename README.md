@@ -4,4 +4,5 @@
 
 # Plus d'informations dans le manuel d'utilisation :
 
-file:///Users/laurentphancong/Downloads/Livrable2_-_Modelisation.pdf
+[Livrable2_-_Modelisation.pdf](https://github.com/Laurentpc29/Projet-POO/files/13817934/Livrable2_-_Modelisation.pdf)
+
